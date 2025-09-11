@@ -1,18 +1,14 @@
 <!DOCTYPE html>
-
 <html>
-
 <head>
 
 <title>Depth of Field</title>
-
 </head>
-
 <body>
-
 <h1>Depth of Field Homework</h1>
 
-<img src="clear.jpg"
+<h2>Shallow Depth of Field</h2>
+<img src="clear.jpg" alt="Shallow Depth of Field" width="600">
 
 <p>This is a paragraph.</p>
 
